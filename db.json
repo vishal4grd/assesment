@@ -13,7 +13,7 @@
 			"assesment":{
 				"type": "02",
 				"description": "Database queries",
-				"score": 7
+				"score": 5
 			}
 		},
 		{
@@ -21,7 +21,7 @@
 			"assesment":{
 				"type": "03",
 				"description": "Database queries",
-				"score": 7
+				"score": 10
 			}
 		},
 		{
@@ -29,7 +29,7 @@
 			"assesment":{
 				"type": "04",
 				"description": "Database queries",
-				"score": 7
+				"score": 4
 			}
 		}
 	]
