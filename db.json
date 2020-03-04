@@ -1,10 +1,10 @@
 {
 	"labs":[
 		{
-			"name": "test1",
+			"name": "Database queries",
 			"assesment":{
 				"type": "01",
-				"description": "Database queries",
+				
 				"score": 7
 			}
 		},
