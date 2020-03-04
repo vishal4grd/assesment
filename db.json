@@ -1,7 +1,7 @@
 {
 	"labs":[
 		{
-			"name": "test1",
+			"name": "DB Queries",
 			"assesment":{
 				"type": "01",
 				"description": "Database queries",
@@ -9,18 +9,18 @@
 			}
 		},
 		{
-			"name": "test1",
+			"name": "PLT",
 			"assesment":{
 				"type": "02",
-				"description": "Database queries",
+				"description": "Programming Logic",
 				"score": 5
 			}
 		},
 		{
-			"name": "test1",
+			"name": "HTML",
 			"assesment":{
 				"type": "03",
-				"description": "Database queries",
+				"description": "HTML",
 				"score": 10
 			}
 		},
