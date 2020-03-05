@@ -25,10 +25,10 @@
 			}
 		},
 		{
-			"name": "test1",
+			"name": "OO Concepts",
 			"assesment":{
 				"type": "04",
-				"description": "Database queries",
+				"description": "OO Concepts",
 				"score": 4
 			}
 		}
